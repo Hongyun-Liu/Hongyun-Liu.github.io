@@ -1,81 +1,41 @@
 ---
 ---
 
-# Hongyun-Liu's Website
-
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+From May 22 to 28, 2025, we were delighted to welcome
+[**Prof. Yang Liu**](https://terpconnect.umd.edu/~yliu87/) from the University
+of Maryland for a fantastic series of lectures on
+**Bayesian statistical methods**.
+Current students and alumni from **Prof. Hongyun Liu’s and
+[Prof. Yueqin Hu](https://github.com/yueqinhu)’s** research groups came together
+for the sessions, engaging in lively discussions and shared learning. It was a
+great week full of insights, questions, and collaborative spirit!
+**Huge thanks to Prof. Liu for the inspiring lectures, and to everyone who
+participated with such enthusiasm**. Looking forward to more academic events like
+this in the future!
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/2025-bayesian.png"
+  title="2025 Bayesian Workshop"
   text=text
+  size=wide
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+On March 13, 2025, we celebrated Professor Hongyun Liu's birthday 🥳🎉🎂
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/2025-birthday.png"
+  title="2025 Birthday Party"
   text=text
 %}

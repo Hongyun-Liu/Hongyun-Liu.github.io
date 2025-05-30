@@ -10,13 +10,45 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+phd1:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: 1-year PhD Student
+
+phd2:
+  icon: fa-solid fa-graduation-cap
+  description: 2-year PhD Student
+
+phd3:
+  icon: fa-solid fa-graduation-cap
+  description: 3-year PhD Student
+
+phd4:
+  icon: fa-solid fa-graduation-cap
+  description: 4-year PhD Student
+
+phd5:
+  icon: fa-solid fa-graduation-cap
+  description: 5-year PhD Student
+
+grad1:
+  icon: fa-solid fa-user-graduate
+  description: 1-year Graduate Student
+
+grad2:
+  icon: fa-solid fa-user-graduate
+  description: 2-year Graduate Student
+
+grad3:
+  icon: fa-solid fa-user-graduate
+  description: 3-year Graduate Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-school
   description: Undergraduate Student
+
+ra:
+  icon: fa-solid fa-user-tie
+  description: Research Assistant
 
 programmer:
   icon: fa-solid fa-code

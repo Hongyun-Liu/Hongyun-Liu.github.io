@@ -7,29 +7,28 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd5'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include list.html data="members" component="portrait" filter="role == 'phd4'" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="role == 'phd3'" %}
 
-{% include section.html %}
+{% include list.html data="members" component="portrait" filter="role == 'phd2'" %}
 
-{% capture content %}
+{% include list.html data="members" component="portrait" filter="role == 'phd1'" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include list.html data="members" component="portrait" filter="role == 'grad3'" %}
 
-{% endcapture %}
+{% include list.html data="members" component="portrait" filter="role == 'grad2'" %}
 
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filter="role == 'grad1'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'ra'" %}

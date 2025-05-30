@@ -19,10 +19,15 @@ if [[ $OSTYPE == msys* ]] || [[ $OSTYPE == cygwin* ]]; then
     WORKING_DIR=$(cmd //c cd)
 fi
 
-# build docker image
-docker build ${PLATFORM} \
-    --tag ${IMAGE} \
-    --file ./.docker/Dockerfile . && \
+# Check if image exists
+if docker images --format '{{.Repository}}:{{.Tag}}' | grep -q "^${IMAGE}\$"; then
+    echo "Image ${IMAGE} exists. Running container..."
+else
+    # build docker image if it doesn't exist
+    docker build ${PLATFORM} \
+        --tag ${IMAGE} \
+        --file ./.docker/Dockerfile .
+fi
 
 # run built docker image
 ${DOCKER_RUN} ${PLATFORM} \
