@@ -699,3 +699,38 @@
   link: https://doi.org/g9k949
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1037/met0000668
+  title: 'When predictors sum to a constant: Trade-off effect analysis using a regression
+    model based on isometric log-ratio transformation.'
+  authors:
+  - Jieyuan Dong
+  - Hongyun Liu
+  publisher: Psychological Methods
+  date: '2025-05-29'
+  link: https://doi.org/g9mrzm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/00273171.2025.2443362
+  title: Incorporating Qualitative Distinctions in Within-Person Effect Analyses
+  authors:
+  - Xiaohui Luo
+  - Yang Liu
+  - Hongyun Liu
+  publisher: Multivariate Behavioral Research
+  date: '2025-01-02'
+  link: https://doi.org/g9mrzn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.31234/osf.io/g8rjt_v1
+  title: 'Enhancing Two-Stage Estimation in Differential Equation Models: A Bias-Correction
+    Method via Stochastic Approximation'
+  authors:
+  - Xiaohui Luo
+  - Hongyun Liu
+  - Yueqin Hu
+  - Yang Liu
+  publisher: Center for Open Science
+  date: '2025-05-28'
+  link: https://doi.org/g9mrzp
+  plugin: sources.py
+  file: sources.yaml

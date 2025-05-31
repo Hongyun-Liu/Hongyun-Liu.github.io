@@ -9,7 +9,7 @@ From May 22 to 28, 2025, we were delighted to welcome
 [**Prof. Yang Liu**](https://terpconnect.umd.edu/~yliu87/) from the University
 of Maryland for a fantastic series of lectures on
 **Bayesian statistical methods**.
-Current students and alumni from **Prof. Hongyun Liu’s and
+Current students and alumni from **[Prof. Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm)’s and
 [Prof. Yueqin Hu](https://github.com/yueqinhu)’s** research groups came together
 for the sessions, engaging in lively discussions and shared learning. It was a
 great week full of insights, questions, and collaborative spirit!
