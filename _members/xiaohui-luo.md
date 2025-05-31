@@ -8,7 +8,14 @@ aliases:
   - Luo, Xiaohui
   - XH Luo
 links:
-  home-page: https://luoxh3.github.io/
-  email: xiaohui_luo@mail.bnu.edu.cn
-  orcid: 0000-0002-6462-0220
+  google-scholar: https://scholar.google.com/citations?user=fyGml2AAAAAJ
+  github: https://www.researchgate.net/profile/Xiaohui-Luo-9
 ---
+
+👋 Hi, I’m Xiaohui LUO (罗晓慧)
+
+🎓 PhD Student in Psychological Statistics and Psychometrics, Beijing Normal University (BNU)
+
+🔍 **Personal website**: [https://luoxh3.github.io/](https://luoxh3.github.io/)
+
+✨ My research focuses on **Intensive Longitudinal Analysis, Multilevel Modeling, Structural Equation Modeling, and Bayesian Estimation**. I am particularly interested in exploring dynamic processes, time-related issues, and heterogeneity in psychological data, with applications in clinical-health and developmental psychology.
