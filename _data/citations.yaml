@@ -1,3 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-[]
+- doi: ''
+  plugin: sources.py
+  file: sources.yaml
