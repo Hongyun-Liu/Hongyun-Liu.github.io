@@ -5,7 +5,7 @@
 
 The DyMAP Lab, led by [Professor Hongyun Liu](https://psych.bnu.edu.cn/szdw/zrjs/js/lhy/index.htm) at Beijing Normal University, advances quantitative methods in psychology and education to address complex modeling and assessment challenges. Our research focuses on: intensive longitudinal data analysis, multilevel modeling, structural equation modeling, mediation analysis, moderation analysis, process data analysis, and large-scale educational evaluation.
 
-## Highlights
+# Highlights
 
 {% capture text %}
 
