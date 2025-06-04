@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-## Recent 5 years
-
 {% include search-box.html %}
 
 {% include search-info.html %}
+
+## Recent 5 years
 
 1. Dong, J., & Liu, H. (2025). When predictors sum to a constant: Trade-off effect analysis using a regression model based on isometric log-ratio transformation. Psychological Methods. https://doi.org/10.1037/met0000668
 
