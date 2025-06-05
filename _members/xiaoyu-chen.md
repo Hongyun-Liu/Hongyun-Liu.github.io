@@ -1,8 +1,6 @@
 ---
 name: Xiaoyu Chen
-image:
+image: images/xiaoyu-chen.jpg
 role: phd4
-affiliation: Beijing Normal University
-description:
-links:
+affiliation: xiaoyuchen677@163.com
 ---

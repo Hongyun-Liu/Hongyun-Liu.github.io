@@ -1,7 +1,6 @@
 ---
 name: Juntao Hu
-image:
+image: images/juntao-hu.jpg
 role: ra
-affiliation: Beijing Normal University
-description:
+affiliation: 3036437120@qq.com
 ---

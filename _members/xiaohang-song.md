@@ -1,7 +1,6 @@
 ---
 name: Xiaohang Song
-image: images/photo.jpg
+image: images/xiaohang-song.jpg
 role: grad2
-affiliation: Beijing Normal University
-description:
+affiliation: wy7524sxh@163.com
 ---
