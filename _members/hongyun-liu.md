@@ -8,8 +8,9 @@ aliases:
   - H. Liu
   - HY Liu
 links:
-  home-page: https://hongyun-liu.github.io
+  google-scholar: dWi1jnAAAAAJ
   orcid: 0000-0002-3472-9102
+  github: Hongyun-Liu
 ---
 
 <!-- TODO: Add English version of CV -->
