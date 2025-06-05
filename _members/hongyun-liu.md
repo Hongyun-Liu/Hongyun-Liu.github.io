@@ -15,4 +15,4 @@ links:
 
 <!-- TODO: Add English version of CV -->
 
-[CV (Chinese Version)](../resources/Hongyun_Liu_CV_CHN_202501.pdf)
+[CV (Chinese Version)](../resources/Hongyun_Liu_CV_CHN_202505.pdf)
