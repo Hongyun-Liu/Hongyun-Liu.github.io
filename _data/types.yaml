@@ -122,6 +122,12 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$VALUE
+
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter

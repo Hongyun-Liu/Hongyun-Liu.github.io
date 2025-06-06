@@ -8,8 +8,8 @@ aliases:
   - Luo, Xiaohui
   - XH Luo
 links:
-  google-scholar: https://scholar.google.com/citations?user=fyGml2AAAAAJ
-  github: https://www.researchgate.net/profile/Xiaohui-Luo-9
+  google-scholar: fyGml2AAAAAJ
+  researchgate: Xiaohui-Luo-9
 ---
 
 👋 Hi, I’m Xiaohui LUO (罗晓慧)
