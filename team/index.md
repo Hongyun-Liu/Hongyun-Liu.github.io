@@ -32,3 +32,5 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include list.html data="members" component="portrait" filter="role == 'ra'" %}
+
+<!-- TODO: Add alumni -->
