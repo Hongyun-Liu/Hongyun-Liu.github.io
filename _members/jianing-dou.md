@@ -2,7 +2,7 @@
 name: Jianing Dou
 image: images/jianing-dou.jpg
 role: grad1
-affiliation: doujiaing020628@163.com
+affiliation: doujianing020628@163.com
 ---
 
 Hi! I'm Jianing DOU, an Academic Master student in Psychological Statistics and Psychometrics at Beijing Normal University (BNU).
